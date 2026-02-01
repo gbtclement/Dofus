@@ -1,6 +1,3 @@
 {
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:block/crimson_fungus"
-  }
+	"parent": "minecraft:block/crimson_fungus/plant/0"
 }

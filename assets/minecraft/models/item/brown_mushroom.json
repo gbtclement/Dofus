@@ -1,6 +1,3 @@
 {
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:block/brown_mushroom"
-  }
+	"parent": "minecraft:block/brown_mushroom/plant/0"
 }
