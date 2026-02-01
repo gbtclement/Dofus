@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/end_stone", "weight": 65 },
+	    { "model": "block/end_grass0", "weight": 4 },
+	    { "model": "block/end_grass0_emmisive", "weight": 1 }
+        ]
+    }
+}
